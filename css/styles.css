@@ -117,6 +117,7 @@ p {
 
 #testimonials {
     padding: 10%;
+    background-color:#ef8172;
     
 }
 
@@ -133,7 +134,7 @@ p {
 }
 
 #press {
-    padding-bottom: 3%;
+    padding: 5%;
 }
 
 .press-logo {
