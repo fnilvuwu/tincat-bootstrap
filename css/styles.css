@@ -183,6 +183,7 @@ p {
         padding: 50px;
         position: static;
         transform: rotate(0);
+        width: 100%;
     }
     
     #navbarNav {
