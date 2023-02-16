@@ -1,3 +1,3 @@
-##Parody of Tinder
+# Parody of Tinder
 
-Responsive website made using Bootstrap
+A dating website for cat made using Bootstrap
