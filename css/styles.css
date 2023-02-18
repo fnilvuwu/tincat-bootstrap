@@ -190,3 +190,10 @@ p {
         text-align: left;
     }
 }
+
+@media (max-width: 768px) {
+    
+    .press-logo {
+        width: 25%;
+    }
+}
